@@ -9,7 +9,7 @@ import {
   Legend,
 } from "recharts";
 
-const API = "http://localhost:8000/api/expenses";
+const API = "https://fintrack-backend-srjv.onrender.com/api/expenses";
 
 const CATEGORIES = [
   "Food & Dining",
